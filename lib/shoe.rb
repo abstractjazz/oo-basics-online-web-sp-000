@@ -17,4 +17,5 @@ end
 
 def condition
 @shoe_condition
+  end
 end

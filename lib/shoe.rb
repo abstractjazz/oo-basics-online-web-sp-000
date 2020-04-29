@@ -10,11 +10,11 @@ puts "Your shoe is as good as new!"
 condition(new)
 end
 
-def condition=(condition)
-  @condition = condition
-end # Make your shoe class here!
-
-def condition
-  @condition = condition
-  end
-end
+# def condition=(condition)
+#   @condition = condition
+# end # Make your shoe class here!
+#
+# def condition
+#   @condition = condition
+#   end
+# end

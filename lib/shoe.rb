@@ -18,5 +18,4 @@ end
 def condition
 @shoe_condition
   end
-  binding.pry
 end

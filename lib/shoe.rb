@@ -12,11 +12,11 @@ puts "Your shoe is as good as new!"
   end
 
 def condition=(condition)
-  @condition = condition
+  @shoe_condition = condition
 end
 
 def condition
-  @condition
+@condition
   end
   binding.pry
 end

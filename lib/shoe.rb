@@ -1,3 +1,5 @@
+require 'pry'
+
 class Shoe
 attr_accessor :brand, :color, :size, :material
 
@@ -17,4 +19,5 @@ end
 def condition
   @condition
   end
+  binding.pry
 end

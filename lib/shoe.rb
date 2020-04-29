@@ -7,6 +7,7 @@ def initialize(brand)
 
 def cobble
 puts "Your shoe has been repaired"
+condition(new)
 end
 
 end # Make your shoe class here!

@@ -16,7 +16,7 @@ def condition=(condition)
 end
 
 def condition
-@condition
+@shoe_condition
   end
   binding.pry
 end

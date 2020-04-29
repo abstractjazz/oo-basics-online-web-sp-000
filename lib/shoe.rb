@@ -10,3 +10,11 @@ def cobble
 puts "Your shoe is as good as new!"
   end
 end
+
+def condition=(condition)
+@shoe_condition = condition
+end
+
+def condition
+@shoe_condition 
+end
